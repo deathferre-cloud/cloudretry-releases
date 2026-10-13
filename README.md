@@ -4,9 +4,9 @@
 
 [Version archive / Архив версий](https://github.com/deathferre-cloud/cloudretry-releases/releases)
 
-The download link stays the same across releases. The installer contains the actual numbered version; in-app updates use the signed latest-release manifest. Older releases remain in the version archive.
+The download link stays the same across releases. The installer contains the actual numbered version; the in-app update button downloads this same non-numbered installer, verified against a signed manifest. Older releases remain in the version archive.
 
-Ссылка на скачивание остаётся прежней при выходе обновлений. Внутри установщика указан фактический номер версии; кнопка обновления получает подписанный манифест последнего выпуска. Предыдущие версии сохраняются в архиве.
+Ссылка на скачивание остаётся прежней при выходе обновлений. Внутри установщика указан фактический номер версии; кнопка обновления скачивает этот же установщик без номера в имени и проверяет его по подписанному манифесту. Предыдущие версии сохраняются в архиве.
 
 
 Download Yandex Disk files with automatic retries, resume and a persistent queue.
