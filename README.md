@@ -1,5 +1,14 @@
 # CloudRetry
 
+**[Download the latest installer / Скачать последнюю версию](https://github.com/deathferre-cloud/cloudretry-releases/releases/latest/download/CloudRetry-Setup-windows-x64.exe)**
+
+[Version archive / Архив версий](https://github.com/deathferre-cloud/cloudretry-releases/releases)
+
+The download link stays the same across releases. The installer contains the actual numbered version; in-app updates use the signed latest-release manifest. Older releases remain in the version archive.
+
+Ссылка на скачивание остаётся прежней при выходе обновлений. Внутри установщика указан фактический номер версии; кнопка обновления получает подписанный манифест последнего выпуска. Предыдущие версии сохраняются в архиве.
+
+
 Download Yandex Disk files with automatic retries, resume and a persistent queue.
 
 **[Official website](https://cloudretry.com/en) · [Русская версия](https://cloudretry.com/ru) · [Download guides](https://cloudretry.com/en/guides)**
